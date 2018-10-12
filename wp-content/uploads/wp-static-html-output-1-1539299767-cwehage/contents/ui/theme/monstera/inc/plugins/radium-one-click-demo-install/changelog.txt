@@ -1,0 +1,8 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Version 0.0.3
+ * Added composer
+ * filters for demo file paths
+ * Check if already imported
+ 
+Version 0.0.2
+ * Initial Release </p></body></html>
